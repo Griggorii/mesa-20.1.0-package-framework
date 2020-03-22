@@ -8,3 +8,5 @@ $$ sudo tar xvpf mesa-20.1.0.tar.xz -C /
 reboot
 
 $$ glxinfo
+
+Source https://github.com/Griggorii/mesa-20.1.0-linux
