@@ -7,6 +7,8 @@ Download mesa-20.1.0 https://yadi.sk/d/ziMA0393BkU1ng
 
 $$ sudo tar xvpf mesa-20.1.0.tar.xz -C /
 
+$$ sudo rm -rf /var/cache/* && cd /var/cache && sudo mkdir apt && cd apt && sudo mkdir archives && cd archives && sudo mkdir partial
+
 reboot
 
 $$ glxinfo
