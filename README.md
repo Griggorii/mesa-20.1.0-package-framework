@@ -1,5 +1,5 @@
-# mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality 
-mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality
+# mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color
+mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color
 
 Onli support Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  Поддержка только Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  другие дистрибутивы не подоидут сломается система и надо будет пересобрать из Source ниже
 
