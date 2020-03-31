@@ -7,6 +7,10 @@ Download mesa-20.1.0 https://yadi.sk/d/_Uyhtzx57ryJ6w
 
 inpack installation readme
 
+in termilal folder DRM include video install DRM_COMPILE_16.04 copy paste command
+
+sudo dpkg -i linux-libc-dev_5.1.3-1_amd64.deb
+
 $$ glxinfo
 
 Source https://github.com/Griggorii/mesa-20.1.0-linux
