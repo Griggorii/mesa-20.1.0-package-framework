@@ -1,9 +1,9 @@
-# mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color
-mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color
+# mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color , steam best fps
+mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color , steam best fps
 
 Onli support Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  Поддержка только Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  другие дистрибутивы не подоидут сломается система и надо будет пересобрать из Source ниже
 
-Download mesa-20.1.0 https://yadi.sk/d/_Uyhtzx57ryJ6w
+Download mesa-20.1.0      https://yadi.sk/d/_Uyhtzx57ryJ6w               ‮Download mesa-20.1.0
 
 inpack installation readme
 
@@ -18,6 +18,9 @@ Source https://github.com/Griggorii/mesa-20.1.0-linux
 Mesa gameplay test:https://radikal.ru/video/TWgGCte9gb0
 
 Vulkan browser not vulkan skia:https://radikal.ru/video/3fdaRVFJjso
+
+Я больше не буду собирать mesa потому что это уже конечная версия и изображение лучше уже не сделать можно сказать что 
+наступил пик качества цветопередачи после которого уже лучше сделать не возможно и скорее всего когда корпорации это поимут то они признают этот драивер , а не будут бегать от одного к другому либо подделывать через hex редактор авторство итд.
 
 Ubuntu 16.04 mesa 18.0.5 steam test not stability fps 2-30FPS | Ubuntu 20.04 mesa 20.1.0 Stability fps 28-50-70
 
