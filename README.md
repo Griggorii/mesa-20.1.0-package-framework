@@ -3,7 +3,7 @@ mesa-20.1.0-package-framework , linux x64 , sRGB , hd quality , best color , ste
 
 Onli support Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  Поддержка только Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  другие дистрибутивы не подоидут сломается система и надо будет пересобрать из Source ниже
 
-Download mesa-20.1.0      https://yadi.sk/d/_Uyhtzx57ryJ6w               ‮Download mesa-20.1.0
+Download mesa-20.1.0      https://yadi.sk/d/hFG8uY2Q5iDDYQ              ‮Download mesa-20.1.0
 
 inpack installation readme
 
