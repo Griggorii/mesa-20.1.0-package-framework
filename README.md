@@ -5,11 +5,7 @@ Onli support Ubuntu 19.04 Disco Dingo , 20.04 Focal Fossa  Поддержка т
 
 Download mesa-20.1.0 https://yadi.sk/d/u4Xl-NOGDYu1Zw inpack readme install instructions
 
-inpack installation readme
-
-in termilal folder DRM include video install DRM_COMPILE_16.04 copy paste command
-
-sudo dpkg -i linux-libc-dev_5.1.3-1_amd64.deb
+install terminal command check version mesa:
 
 $$ glxinfo
 
