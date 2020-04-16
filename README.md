@@ -18,7 +18,7 @@ Vulkan browser not vulkan skia:https://radikal.ru/video/3fdaRVFJjso
 Я больше не буду собирать mesa потому что это уже конечная версия и изображение лучше уже не сделать можно сказать что 
 достигнут пик качества цветопередачи после которого уже лучше сделать не возможно и скорее всего когда корпорации это поимут то они признают этот драивер , а не будут бегать от одного к другому либо подделывать через hex редактор авторство итд.
 
-                    Ubuntu 16.04 mesa 18.0.5 VS Ubuntu 20.04 mesa 20.1.0 test perfomance disk SSD
+         Ubuntu 16.04 mesa 18.0.5 test perfomance disk SSD VS Ubuntu 20.04 mesa 20.1.0 test perfomance disk SSD
 
 Ubuntu 16.04 mesa 18.0.5 steam test not stability fps 2-30FPS | Ubuntu 20.04 mesa 20.1.0 Stability fps 28-50-70
 
